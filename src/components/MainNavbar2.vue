@@ -5,7 +5,7 @@
                 <router-link class="nav-link text-dark "  :to="item.path">{{item.itemName}}</router-link>
             </li>
         </ul>
-        <img src="../../src/assets/body-image.webp" alt="image-body" class="mt-3">
+        <img src="../../src/assets/body-image.webp" alt="image-body" class="mt-3 img-fluid">
         
         <div class="text-start mt-3">
         
@@ -36,7 +36,7 @@
                 mainNavbarItems:[
                     {id:1,itemName:'New',path:"/"},
                     {id:2,itemName:'Future Tech',path:"/"},
-                    {id:3,itemName:'Nature',path:"/"},
+                    {id:3,itemName:'Nature',path:"/nature"},
                     {id:4,itemName:'Human Body',path:"/"},
                     {id:5,itemName:'Everyday Science',path:"/"},
                     {id:6,itemName:'Planet Earth',path:"/"},

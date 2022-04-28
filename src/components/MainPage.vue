@@ -15,6 +15,12 @@
       </div>
       <main-navbar-2 />
 
+      <div class="bg-dark text-start text-white">
+        <footer>
+         <span>made by:rahim einollahi</span>
+         <address>go to rahim.einollahi1 instagram</address>
+        </footer>
+      </div>
          
   </div>
 </template>
